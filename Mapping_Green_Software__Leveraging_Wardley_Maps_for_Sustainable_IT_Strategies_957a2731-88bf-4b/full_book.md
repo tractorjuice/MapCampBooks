@@ -2003,7 +2003,7 @@ In the next section, we will explore how these insights were translated into con
 
 ### Implemented changes and their rationale
 
-Content for Implemented changes and their rationale not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mapping_Green_Software__Leveraging_Wardley_Maps_for_Sustainable_IT_Strategies_957a2731-88bf-4b/book/Case_Studies__Green_Software_Success_Through_Wardley_Mapping/Case_Study_1__Data_Centre_Optimisation/topic_30_Implemented_changes_and_their_rationale.md
+Content for Implemented changes and their rationale not found.
 
 ### Resulting environmental and business impacts
 
