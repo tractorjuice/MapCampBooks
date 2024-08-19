@@ -3821,17 +3821,11 @@ In conclusion, the path to a truly sustainable digital future is one that we mus
 
 > [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_61_Collaborating_for_industry-wide_sustainability_imp.md)
 
-
-
-
-
-# Appendix
-
-## Book Generation Details
+# Appendix#: Book Generation Details
 
 - Initial Topic: To Arrive at Green Software you Need a Wardley Map
 - Refined Topic: To Arrive at Green Software you Need a Wardley Map
-- Total Output Tokens: 296462
+- Total Output Tokens: 296,462
 - Total LLM Cost: $4.45
 
 ## Further Reading on Wardley Mapping
@@ -3846,7 +3840,6 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Author: Simon Wardley
    - Editor: Mark Craddock
    - Part of the Wardley Mapping series (5 books)
-   - ⭐⭐⭐⭐ 4.4/5 stars (27 ratings)
    - Available in Kindle Edition
    - [Amazon Link](https://www.amazon.com/dp/B0BVSXB5W5)
 
@@ -3869,7 +3862,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Part of the Wardley Mapping series (5 books)
    - Available in Kindle Edition
    - [Amazon Link](https://www.amazon.com/dp/B0C2SFTR7Z)
-   
+
    This book explores how doctrine supports organizational learning and adaptation:
    - Standardisation: Enhances efficiency through consistent application of best practices
    - Shared Understanding: Fosters better communication and alignment within teams
@@ -3895,7 +3888,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - [Amazon Link](https://www.amazon.com/dp/B0C7CR9R9Q)
 
    This book delves into gameplays, a crucial component of Wardley Mapping:
-   
+
    - Gameplays are context-specific patterns of strategic action derived from Wardley Maps
    - Types of gameplays include:
      * User Perception plays (e.g., education, bundling)
@@ -3905,7 +3898,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
      * Defensive plays (e.g., raising barriers to entry, managing inertia)
      * Attacking plays (e.g., directed investment, undermining barriers to entry)
      * Ecosystem plays (e.g., alliances, sensing engines)
-   
+
    Gameplays enhance strategic decision-making by:
    1. Providing contextual actions tailored to specific situations
    2. Enabling anticipation of competitors' moves
@@ -3982,7 +3975,6 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
 6. **Wardley Mapping Cheat Sheets & Notebook**
    - Author: Mark Craddock
    - 100 pages of Wardley Mapping design templates and cheat sheets
-   - ⭐⭐⭐⭐ 4.2/5 stars (3 reviews)
    - Available in paperback format
    - [Amazon Link](https://www.amazon.com/dp/B09TPDM9PP)
 
@@ -3991,7 +3983,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Quick reference guides for key Wardley Mapping concepts
    - Space for notes and brainstorming
    - Visual aids for understanding mapping principles
-   
+
    Ideal for:
    - Practitioners looking to quickly apply Wardley Mapping techniques
    - Workshop facilitators and educators
@@ -4002,7 +3994,6 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
 7. **UN Global Platform Handbook on Information Technology Strategy: Wardley Mapping The Sustainable Development Goals (SDGs)**
    - Author: Mark Craddock
    - Explores the use of Wardley Mapping in the context of sustainable development
-   - ⭐⭐⭐⭐⭐ 5.0/5 stars (2 reviews)
    - Available for free with Kindle Unlimited or for purchase
    - [Amazon Link](https://www.amazon.com/dp/B09PNKFHG4)
 
